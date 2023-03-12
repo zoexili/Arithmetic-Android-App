@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">arithmetic</string>
+    <string name="calculate_button">calculate: </string>
+    <string name="radio_add">+</string>
+    <string name="radio_minus">-</string>
+    <string name="radio_multiply">*</string>
+    <string name="radio_divide">/</string>
+    <string name="radio_modulo">%</string>
+    <string name="operand1">Enter operand 1</string>
+    <string name="operand2">Enter operand 2</string>
+    <string name="result"> </string>
+    <string name="divide0_toast">Divide by zero not allowed!</string>
+</resources>
